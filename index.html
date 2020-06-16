@@ -198,11 +198,11 @@ $(document).ready(function(){
 
 $.ajax({
     type: "Get",
-    url: "https://sagarjadhavwebdev.github.io/App/AJ.json",
+    url: "A.json",
     dataType: "json",
     success: function(data) {
     console.log(data)
-
+     alert (JSON.stringify(data));
 for(var i=0;i<data.length;i++){
    $('#ap').append(`
 
