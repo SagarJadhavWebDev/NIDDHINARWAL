@@ -1,0 +1,2 @@
+
+[{"name":"\u00a0    I can't change the direction of the wind, but I can adjust my sails to always reach my destination.  \u00a0    "},{"name":"When you have a dream, you've got to grab it and never let go.  \u00a0  "},{"name":"Believe you can and you're halfway there.  \u00a0"},{"name":"\u201cThe way get started is to quit talking and begin doing.\u201d "}]
